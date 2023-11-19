@@ -8,6 +8,8 @@ import About from "./components/About/About.jsx";
 import ErrorPage from "./components/ErrorPage/ErrorPage.jsx";
 import NavBar from "./components/Navigation/NavBar.jsx";
 import Footer from "./components/Footer/Footer.jsx";
+import Sponsor from "./components/Sponsor/Sponsor.jsx";
+import EventsPage from "./components/Events/EventsPage.jsx";
 
 const router = createBrowserRouter([
   {
@@ -23,6 +25,16 @@ const router = createBrowserRouter([
   {
     path: "/about",
     element: <About />,
+    errorElement: <ErrorPage />,
+  },
+  {
+    path: "/sponsor",
+    element: <Sponsor />,
+    errorElement: <ErrorPage />,
+  },
+  {
+    path: "/events",
+    element: <EventsPage />,
     errorElement: <ErrorPage />,
   },
 ]);

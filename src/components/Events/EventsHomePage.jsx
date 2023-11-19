@@ -53,7 +53,7 @@ const items = [
   },
 ];
 
-const Events = () => {
+const EventsHomePage = () => {
   const [offset, setOffset] = useState(0);
 
   const CARD_BUFFER =
@@ -120,4 +120,4 @@ const Events = () => {
   );
 };
 
-export default Events;
+export default EventsHomePage;

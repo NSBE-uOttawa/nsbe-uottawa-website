@@ -1,6 +1,6 @@
 import Hero from "./components/Hero/Hero.jsx";
 import Features from "./components/Features/Features.jsx";
-import Events from "./components/Events/Events.jsx";
+import EventsHomePage from "./components/Events/EventsHomePage.jsx";
 import FAQ from "./components/FAQ/FAQ.jsx";
 //import Section from "./components/reactScroll.jsx";
 
@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <Hero />
       <Features />
-      <Events />
+      <EventsHomePage />
       <FAQ />
       {/* <Section /> */}
     </div>

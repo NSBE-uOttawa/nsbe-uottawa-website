@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import MenuLink from "./MenuLink";
+import { Link } from "react-scroll";
 
 const NavMenu = ({ isOpen }) => {
   return (
@@ -13,9 +14,20 @@ const NavMenu = ({ isOpen }) => {
       {" "}
       <MenuLink text="Home" url="/" />
       <MenuLink text="About Us" url="/about" />
-      <MenuLink text="Events" url="#events" />
-      <MenuLink text="Execs" url="/Execs" />
-      <MenuLink text="Contact Us" url="#footer" />
+      <MenuLink text="Events" url="##" />
+      <MenuLink text="Sponsor Us" url="/sponsor" />
+      <MenuLink text="Execs" url="/execs" />
+      <Link
+        activeClass="active"
+        to={"footer"}
+        spy={true}
+        smooth={true}
+        offset={-120}
+        duration={1000}
+        href="#footer"
+      >
+        <MenuLink text="Contact Us" url="#footer" />
+      </Link>
     </motion.div>
   );
 };

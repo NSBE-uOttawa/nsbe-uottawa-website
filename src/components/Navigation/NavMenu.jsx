@@ -14,7 +14,7 @@ const NavMenu = ({ isOpen }) => {
       {" "}
       <MenuLink text="Home" url="/" />
       <MenuLink text="About Us" url="/about" />
-      <MenuLink text="Events" url="##" />
+      <MenuLink text="Events" url="/events" />
       <MenuLink text="Sponsor Us" url="/sponsor" />
       <MenuLink text="Execs" url="/execs" />
       <Link

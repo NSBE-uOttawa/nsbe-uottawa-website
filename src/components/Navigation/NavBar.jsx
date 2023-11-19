@@ -17,7 +17,7 @@ const FlipNav = () => {
     <nav className="bg-white-950 p-4 border-b-[1px] border-gray-200 flex items-center justify-between relative">
       <NavLeft setIsOpen={setIsOpen} />
       <NavRight />
-      <NavMenu isOpen={isOpen} />
+      <NavMenu className="fixed top-0 left-0 w-full" isOpen={isOpen} />
     </nav>
   );
 };

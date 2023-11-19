@@ -193,9 +193,9 @@ const Execs = () => {
   };
 
   return (
-    <div className="container mx-auto mt-8 p-4">
+    <div className="container mx-auto mt-5 p-4 sm:w-full">
       <div className="flex flex-col items-center">
-        <h1 className="text-5xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-900 to-indigo-500">
+        <h1 className="text-center text-5xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-900 to-indigo-500">
           Executive Gallery
         </h1>
         <div className="mb-4">
@@ -256,7 +256,7 @@ const Execs = () => {
                 duration: 3.5,
                 ease: "linear",
               }}
-              className="absolute inset-0 z-0 bg-gradient-to-br from-indigo-400 via-indigo-400/0 to-indigo-400 opacity-0 transition-opacity duration-500 group-hover:opacity-100"
+              className="absolute inset-0 z-0 bg-gradient-to-br from-violet-900 via-indigo-900/0 to-indigo-200 opacity-0 transition-opacity duration-500 group-hover:opacity-100"
             />
             {/* Hover effect for the card */}
             <div className="absolute inset-0 z-0 transition-all duration-500 group-hover:bg-slate-800/50"></div>

@@ -6,6 +6,7 @@ const About = () => {
       <h3 className="text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
         About Us
       </h3>
+      <p>TBD...</p>
     </div>
   );
 };

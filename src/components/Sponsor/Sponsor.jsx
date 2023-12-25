@@ -33,7 +33,9 @@ const Sponsor = () => {
 				impact on the world for decades to come.
 			</p>
 
-			<p>HELP CREATE THE NEXT GENERATION OF INNOVATOR</p>
+			<p className="p-3 text-center text-xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
+				HELP CREATE THE NEXT GENERATION OF INNOVATOR
+			</p>
 			<h3 className="p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Benefits
 			</h3>

@@ -75,8 +75,11 @@ const Sponsor = () => {
 					</li>
 				))}
 			</ul>
+			<h3 className="my-4 p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
+				Sponsor Pacakges
+			</h3>
 			<SponsorshipCard></SponsorshipCard>
-			<h3 className="p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
+			<h3 className="mt-8 p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Funding
 			</h3>
 			<p className="max-w-3xl my-3 p-3 text-center outline outline-offset-2 outline-indigo-500">

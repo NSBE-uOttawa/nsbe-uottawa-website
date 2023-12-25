@@ -22,6 +22,7 @@ const items = [
 		title: "Games Night",
 		description:
 			"Join us on October 19th for a board game night in partnership with BSLA!",
+		infoUrl: "https://www.instagram.com/nsbeuottawa/p/CyUasryRcxr/?hl=en",
 	},
 	{
 		id: 2,
@@ -31,6 +32,7 @@ const items = [
 		title: "Industry Night",
 		description:
 			"Get ready for an electrifying night of collaboration! Women in Engineering (WIE) and NSBE are joining forces to bring you the ultimate industry night event.",
+		infoUrl: "https://www.instagram.com/nsbeuottawa/p/Cy3rIilxGHE/?hl=en",
 	},
 ];
 

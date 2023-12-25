@@ -1,4 +1,4 @@
-const EventsCard = ({ url, category, title, description, date }) => {
+const EventsCard = ({ url, category, title, description, date, infoUrl }) => {
 	const CARD_WIDTH = 350;
 	const MARGIN = 20;
 
@@ -24,6 +24,11 @@ const EventsCard = ({ url, category, title, description, date }) => {
 					</span>
 					<p className="my-2 text-3xl font-bold">{title}</p>
 					<p className="text-lg text-slate-300">{description}</p>
+					<a href={infoUrl}>
+						<button className="item-center mt-3 rounded-lg p-3 outline outline-2 outline-offset-2 hover:outline-indigo-700">
+							More info
+						</button>
+					</a>
 				</div>
 			</div>
 		</div>

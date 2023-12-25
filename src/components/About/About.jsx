@@ -1,10 +1,10 @@
 const About = () => {
 	const AboutObjectives = [
-		"Stimulate and develop student interest in the different engineering disciplines",
-		"Strive to increase the number of minority students studying engineering at both the undergraduate and graduate levels",
-		"Encourage members to seek advanced degrees in engineering or related fields and to obtain professional engineering registrations",
-		"Promote public awareness of engineering and the opportunities for Blacks and other minorities in that profession",
-		"Function as a representative body on issues and developments that affect the careers of Black Engineers in Canada",
+		"Ignite passion among students for diverse engineering disciplines, sparking curiosity and innovation.",
+		"Champion the increased enrollment of minority students in engineering, shaping a more diverse and inclusive future in technology.",
+		"Empower members to excel, advocating for advanced degrees and professional recognition in engineering and related fields.",
+		"Elevate public consciousness about the critical role of minorities in engineering, showcasing opportunities and breaking barriers.",
+		"Act as a dynamic voice for Black Engineers in Canada, influencing policies and trends that shape the engineering profession.",
 	];
 	return (
 		<div className="flex flex-col items-center ">
@@ -36,7 +36,7 @@ const About = () => {
 			<h3 className="p-3 text-center text-3xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				NSBE Objectives
 			</h3>
-			<ul className="max-w-4xl p-3 mb-6  ">
+			<ul className="max-w-4.5xl p-3 mb-6 items-center ">
 				{AboutObjectives.map((obj, index) => (
 					<li className="items-center space-x-3 flex" key={index}>
 						<svg

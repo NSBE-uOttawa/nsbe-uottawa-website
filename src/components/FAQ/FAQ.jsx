@@ -26,7 +26,7 @@ const FAQ = () => {
 				<Question title="How can I get involved with NSBE at our school?">
 					<p>
 						To get involved with NSBE at our school, you can visit our instagram
-						@nsbeuottawa.
+						@nsbeuottawa and look out for our upcoming events.
 					</p>
 				</Question>
 				<Question title="What types of events and activities does NSBE host?">

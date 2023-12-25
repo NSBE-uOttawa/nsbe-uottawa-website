@@ -12,7 +12,7 @@ const Sponsor = () => {
 	];
 
 	return (
-		<div className="flex flex-col items-center ">
+		<div className="w-full px-8 py-12 md:py-20 flex flex-col items-center ">
 			<h3 className="p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Sponsorship
 			</h3>

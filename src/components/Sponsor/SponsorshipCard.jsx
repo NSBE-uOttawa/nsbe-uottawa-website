@@ -13,7 +13,7 @@ const SponsorshipCard = () => {
 			buttonLink: "#starter",
 			titleColorClass: "text-orange-800",
 			buttonColorClass:
-				"bg-orange-800 hover:bg-orange-800 focus:ring-orange-300 dark:focus:ring-orange-800",
+				"bg-orange-700 hover:bg-orange-800 focus:ring-orange-300 dark:focus:ring-orange-800",
 		},
 		{
 			title: "Silver",

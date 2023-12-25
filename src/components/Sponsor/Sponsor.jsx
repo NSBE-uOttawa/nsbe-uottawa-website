@@ -133,7 +133,14 @@ const Sponsor = () => {
 				>
 					nsbe.uottawa@gmail.com
 				</a>{" "}
-				and we will get back to you with the next steps. We are also available
+				or look through our detailed{" "}
+				<a
+					href="./NSBE_Uottawa_Winter_2024_Sponsorship_Package.pdf"
+					className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900 hover:underline hover:text-red-500"
+				>
+					sponsorship pacakage here
+				</a>
+				, and we will get back to you with the next steps. We are also available
 				to schedule a meeting to clarify any questions you may have. We look
 				forward to hearing from you and welcoming you as a sponsor!
 			</p>

@@ -3,34 +3,6 @@ import SponsorshipOption from "./SponsorshipOption";
 const SponsorshipCard = () => {
 	const sponsorshipOptions = [
 		{
-			title: "Bronze",
-			price: "350",
-			features: [
-				"Logo on Website and Socials",
-				"Invitation to NSBE - Uottawa Networking Events and Company Events",
-			],
-			buttonText: "Get started",
-			buttonLink: "#starter",
-			titleColorClass: "text-orange-800",
-			buttonColorClass:
-				"bg-orange-700 hover:bg-orange-800 focus:ring-orange-300 dark:focus:ring-orange-800",
-		},
-		{
-			title: "Silver",
-			price: "550",
-			features: [
-				"Logo on Website and Socials",
-				"Invitation to NSBE - Uottawa Networking Events and Company Events",
-				"Job postings on the NSBEUottawa webpage ",
-				"Access to the NSBE - Uottawa General Body Resume Book",
-			],
-			buttonText: "Get started",
-			buttonLink: "#company",
-			titleColorClass: "text-gray-300",
-			buttonColorClass:
-				"bg-gray-300 hover:bg-gray-400 focus:ring-gray-300 dark:focus:ring-gray-800",
-		},
-		{
 			title: "Gold",
 			price: "750",
 			features: [

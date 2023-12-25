@@ -7,42 +7,42 @@ const CompanySection = () => {
 				<div className=" grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 lg:grid-cols-3 dark:text-gray-400">
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
 					</a>
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
 					</a>
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
 					</a>
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
 					</a>
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
 					</a>
 					<a href="#" className="flex justify-center items-center">
 						<img
-							src="public/nsbe-logo.svg"
+							src="/nsbe-logo.svg"
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>

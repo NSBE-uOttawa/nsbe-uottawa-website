@@ -28,7 +28,7 @@ const Sponsor = () => {
 				"This funding would included funding for our members in need of financial support through scholarship and giving back to the community in needs",
 		},
 		{
-			title: "INFRACSTRUCTURE, OPERATIONAL COST, RESOURCES: ",
+			title: "INFRASTRUCTURE, OPERATIONAL COST, RESOURCES: ",
 			description:
 				"This would operational expenses, such as maintaining a club space, purchasing supplies, web	hosting, email, databases, software licensing, ZOOM ect...",
 		},

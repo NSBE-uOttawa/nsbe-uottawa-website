@@ -36,9 +36,12 @@ const About = () => {
 			<h3 className="p-3 text-center text-3xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				NSBE Objectives
 			</h3>
-			<ul className="max-w-4.5xl p-3 mb-6 items-center ">
+			<ul className="mx-3 max-w-4.5xl p-3 mb-6 text-center items-center outline outline-offset-2 outline-indigo-500">
 				{AboutObjectives.map((obj, index) => (
-					<li className="items-center space-x-3 flex" key={index}>
+					<li
+						className="flex items-center space-x-3 rtl:space-x-reverse"
+						key={index}
+					>
 						<svg
 							className="flex-shrink-0 w-5 h-5  text-indigo-500"
 							fill="currentColor"

@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import { motion } from "framer-motion";
+import nsbelogo from "../../assets/Transparent_Logo.png";
 
 const CompanySection = () => {
 	return (
@@ -9,10 +10,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center rounded-2xl border-2 border-indigo-500 "
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
@@ -20,10 +21,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
@@ -31,10 +32,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
@@ -42,10 +43,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
@@ -53,10 +54,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>
@@ -64,10 +65,10 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center"
+						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
 					>
 						<img
-							src="/nsbe-logo.svg"
+							src={nsbelogo}
 							alt="NSBE Logo"
 							className="h-50  hover:text-gray-900 dark:hover:text-white"
 						/>

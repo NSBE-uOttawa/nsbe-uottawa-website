@@ -10,7 +10,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center rounded-2xl border-2 border-indigo-500 "
+						className="box flex justify-center items-center shadow-2xl rounded-2xl "
 					>
 						<img
 							src={nsbelogo}
@@ -21,7 +21,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
+						className="box flex justify-center items-center  shadow-2xl rounded-2xl "
 					>
 						<img
 							src={nsbelogo}
@@ -32,7 +32,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
+						className="box flex justify-center items-center shadow-2xl rounded-2xl"
 					>
 						<img
 							src={nsbelogo}
@@ -43,7 +43,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
+						className="box flex justify-center items-center shadow-2xl rounded-2xl"
 					>
 						<img
 							src={nsbelogo}
@@ -54,7 +54,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
+						className="box flex justify-center items-center shadow-2xl rounded-2xl"
 					>
 						<img
 							src={nsbelogo}
@@ -65,7 +65,7 @@ const CompanySection = () => {
 					<motion.a
 						whileHover={{ scale: 1.1 }}
 						transition={{ type: "spring", stiffness: 400, damping: 10 }}
-						className="box flex justify-center items-center  rounded-2xl border-2 border-indigo-500"
+						className="box flex justify-center items-center shadow-2xl rounded-2xl"
 					>
 						<img
 							src={nsbelogo}

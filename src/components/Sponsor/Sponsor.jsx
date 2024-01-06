@@ -138,7 +138,7 @@ const Sponsor = () => {
 				</a>{" "}
 				or look through our detailed{" "}
 				<a
-					href="./NSBE_Uottawa_Winter_2024_Sponsorship_Package.pdf"
+					href="./NSBE_sponsorship_Pack.pdf"
 					className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900 hover:underline hover:text-red-500"
 				>
 					sponsorship pacakage here

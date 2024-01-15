@@ -141,7 +141,7 @@ const Sponsor = () => {
 					href="./NSBE_sponsorship_Pack.pdf"
 					className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900 hover:underline hover:text-red-500"
 				>
-					sponsorship pacakage here
+					sponsorship package here
 				</a>
 				, and we will get back to you with the next steps. We are also available
 				to schedule a meeting to clarify any questions you may have. We look

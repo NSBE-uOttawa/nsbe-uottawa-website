@@ -39,7 +39,7 @@ const Sponsor = () => {
 			<h3 className="p-3 text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Sponsorship
 			</h3>
-			<h2 className="mt-8 mb-6 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 dark:text-white md:text-4xl">
+			<h2 className="mt-8 mb-6 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900  md:text-4xl">
 				Our Current Sponsors
 			</h2>
 			<CompanySection></CompanySection>

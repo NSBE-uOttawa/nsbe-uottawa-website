@@ -1,8 +1,17 @@
-# React + Vite
+# Welcome to NSBE uOttawa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+UOttawa's National Society of Black Engineers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+To learn more about the organization, find us here:
+
+Linktree: [/nsbeuottawa](https://linktr.ee/nsbeuottawa)
+
+Website: [nsbe-uottawa.ca](https://nsbe-uottawa.ca)
+
+Instagram: [@nsbeuottawa](https://www.instagram.com/nsbeuottawa/?hl=en)
+
+LinkedIn: [/nsbeuottawa](https://www.linkedin.com/company/nsbeuottawa)
+
+ 

@@ -1,3 +1,5 @@
+import { FaCheck } from "react-icons/fa";
+
 const About = () => {
 	const AboutObjectives = [
 		"Ignite passion among students for diverse engineering disciplines, sparking curiosity and innovation.",
@@ -11,7 +13,7 @@ const About = () => {
 			<h3 className="text-center text-5xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				About Us
 			</h3>
-			<p className="max-w-3xl my-3 p-3 text-center">
+			<p className="max-w-4xl my-3 p-3 text-xl text-center">
 				The National Society of Black Engineers (NSBE) is one of the largest
 				student-governed organizations in the world. Our chapter, at the
 				University of Ottawa mission is{" "}
@@ -24,7 +26,7 @@ const About = () => {
 			<h3 className="text-center text-3xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Our Vision
 			</h3>
-			<p className="max-w-3xl my-3 p-3 text-center">
+			<p className="max-w-4xl text-xl my-3 p-3 text-center">
 				We envision a world in which{" "}
 				<span className="font-bold  ">
 					engineering is a mainstream word in homes and communities of color
@@ -33,31 +35,21 @@ const About = () => {
 				world, Blacks exceed parity in entering engineering fields, earning
 				degrees, and succeeding professionally.
 			</p>
-			<h3 className="p-3 text-center text-3xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
+			<h3 className="p-3  text-center text-3xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				NSBE Objectives
 			</h3>
-			<ul className="mx-3 max-w-4.5xl p-3 mb-6 text-center items-center outline outline-offset-2 outline-indigo-500">
+			<ul className="mx-3 max-w-4.5xl p-3 mb-6 text-center items-center border-2 border-indigo-600 text-lg">
 				{AboutObjectives.map((obj, index) => (
 					<li
-						className="flex items-center space-x-3 rtl:space-x-reverse"
+						className="flex justify-center items-center space-x-3 rtl:space-x-reverse"
 						key={index}
 					>
-						<svg
-							className="flex-shrink-0 w-5 h-5  text-indigo-500"
-							fill="currentColor"
-							viewBox="0 0 20 20"
-							xmlns="http://www.w3.org/2000/svg"
-						>
-							<path
-								fillRule="evenodd"
-								d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-								clipRule="evenodd"
-							></path>
-						</svg>
-						{obj}
+						<FaCheck className="w-4 h-4 mr-2 text-indigo-500" />
+						<span className="text-center">{obj}</span>
 					</li>
 				))}
 			</ul>
+
 			<p className=" p-3 text-center text-4xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-indigo-900">
 				Excellence. Exposure. Community. Empathy. Leadership.
 			</p>

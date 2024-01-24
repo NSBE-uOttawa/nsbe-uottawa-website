@@ -49,10 +49,11 @@ const Sponsor = () => {
 			<p className="max-w-3xl my-3 p-3 text-center outline outline-offset-2 outline-indigo-500">
 				By partnering with the National Society of Black Engineers (NSBE -
 				Uottawa), you are not just supporting a worthy cause;{" "}
-				<span className="font-bold">you're investing in the future</span>. Your
-				sponsorship means that you're not only backing our current initiatives
-				but also <span className="font-bold">actively contributing</span> to the
-				creation of a{" "}
+				<span className="font-bold">you&apos;re investing in the future</span>.
+				Your sponsorship means that you&apos;re not only backing our current
+				initiatives but also{" "}
+				<span className="font-bold">actively contributing</span> to the creation
+				of a{" "}
 				<span className="font-bold">
 					robust legacy of leaders, innovators, and skilled global citizens.
 					Together, we can shape a brighter tomorrow, making a lasting, positive

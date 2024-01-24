@@ -17,16 +17,14 @@ const Execs = () => {
 				name: "AJ Ekwueme",
 				role: "CO-President",
 				linkedin: "https://www.linkedin.com/in/akachukwujoshuaekwueme/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/C5603AQEyTtfI1QVvCA/profile-displayphoto-shrink_400_400/0/1645657986583?e=1705536000&v=beta&t=1cIVsgIAONQqjk1-ejvYp-97xKak3J_pNPOK2cyWonM",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 2,
 				name: "Markos Brown",
 				role: "CO-President",
 				linkedin: "https://www.linkedin.com/in/markos-brown/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/C4D03AQGl4osOuP2bng/profile-displayphoto-shrink_400_400/0/1641962977942?e=1705536000&v=beta&t=FCerxhibl4-apU9CajmKEC78NXw-qi8u5JEZxSlr1pI",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 3,
@@ -40,24 +38,21 @@ const Execs = () => {
 				name: "Bayza Woldemariam",
 				role: "VP Communication",
 				linkedin: "https://www.linkedin.com/in/bayza-woldemariam-4087a91b6/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/C4D03AQHaXhO-mivDBA/profile-displayphoto-shrink_800_800/0/1628534674064?e=1705536000&v=beta&t=ley5I3RrAW2HzG2vDCo3fbC-t8JYPYrpEHcb2E_QLVA",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 5,
 				name: "Rachel Olugbemiro",
 				role: "VP Administration",
 				linkedin: "https://www.linkedin.com/in/rachel-olugbemiro/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/D5603AQGScfM8op2Pkw/profile-displayphoto-shrink_400_400/0/1683247109881?e=1705536000&v=beta&t=AEM5dt5j7yxlTcbdU2Rmk3FcL5H-utsiMCJ330Palwc",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 6,
 				name: "Osa Ikhinmwin",
 				role: "Webmaster",
 				linkedin: "https://www.linkedin.com/in/osaaa/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/D4E03AQGjz_GLW3zWAg/profile-displayphoto-shrink_400_400/0/1674774387754?e=1705536000&v=beta&t=gfToTnj9an0i006YA__2ZKLFOH8bTjrQFNa0YpiFRyI",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 7,
@@ -81,8 +76,7 @@ const Execs = () => {
 				name: "Bayza Woldemariam",
 				role: "President",
 				linkedin: "https://www.linkedin.com/in/bayza-woldemariam-4087a91b6/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/C4D03AQHaXhO-mivDBA/profile-displayphoto-shrink_800_800/0/1628534674064?e=1705536000&v=beta&t=ley5I3RrAW2HzG2vDCo3fbC-t8JYPYrpEHcb2E_QLVA",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 2,
@@ -166,8 +160,7 @@ const Execs = () => {
 				name: "Bayza Woldemariam",
 				role: "VP Operations",
 				linkedin: "https://www.linkedin.com/in/bayza-woldemariam-4087a91b6/",
-				imageUrl:
-					"https://media.licdn.com/dms/image/C4D03AQHaXhO-mivDBA/profile-displayphoto-shrink_800_800/0/1628534674064?e=1705536000&v=beta&t=ley5I3RrAW2HzG2vDCo3fbC-t8JYPYrpEHcb2E_QLVA",
+				imageUrl: nsbeLogo,
 			},
 			{
 				id: 5,
